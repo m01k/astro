@@ -1,3 +1,3 @@
 # astro
 my first repository
-first step
+the file in the repository is a picture of Pablo Picasso's famous paint self potrait
